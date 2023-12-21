@@ -92,7 +92,7 @@ export const Banner = () => {
               set, I am dedicated to delivering high-quality solutions that
               exceed expectations.
             </p>
-           <div className="dwn"><a  href="try.pdf" download>Download Resume</a>
+           <div className="dwn"><a  href="NayanSavekarResume.pdf" download>Download Resume</a>
            </div> </div>}
             </TrackVisibility>
           </Col>
