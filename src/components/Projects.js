@@ -86,7 +86,7 @@ export const Projects = () => {
               
               <div id="slideInUp" className={isVisible ? "animate__animated animate__slideInUp" : ""}>
                 <h2>Projects</h2>
-                <p>The Project section showcases a collection of diverse and impactful endeavors, highlighting my expertise, skills, and creative problem-solving abilities.</p>
+                <p>This section showcases a collection of diverse and impactful endeavors, highlighting my expertise, skills, and creative problem-solving abilities, Click on Card to Know more.</p>
                 <Tab.Container id="projects-tabs" defaultActiveKey="first">
                   <Nav variant="pills" className="nav-pills mb-5 justify-content-center align-items-center" id="pills-tab">
                     <Nav.Item>
