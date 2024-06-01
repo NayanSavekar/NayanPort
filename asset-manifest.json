@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/NayanPort/static/css/main.a098e62c.css",
+    "main.js": "/NayanPort/static/js/main.2613b870.js",
+    "static/js/787.b2e1b36e.chunk.js": "/NayanPort/static/js/787.b2e1b36e.chunk.js",
+    "static/media/banner-bg5.png": "/NayanPort/static/media/banner-bg5.3465338e08ec0c04ebb6.png",
+    "static/media/scholarship.png": "/NayanPort/static/media/scholarship.7260084e4ea0a4591545.png",
+    "static/media/my.png": "/NayanPort/static/media/my.e4627a1b12d55ab8cb1b.png",
+    "static/media/car.png": "/NayanPort/static/media/car.a986b8f219c9436797dc.png",
+    "static/media/cloth.png": "/NayanPort/static/media/cloth.7658c156166b9caa86dd.png",
+    "static/media/color-sharp.png": "/NayanPort/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/NayanPort/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/dj.png": "/NayanPort/static/media/dj.a6e49132ab59529e753e.png",
+    "static/media/TDL.png": "/NayanPort/static/media/TDL.f72f88c3b0fab12eb8f4.png",
+    "static/media/CPG.png": "/NayanPort/static/media/CPG.470cc6727aa259b775de.png",
+    "static/media/logo2.png": "/NayanPort/static/media/logo2.07ebbbbce7b3205c0344.png",
+    "static/media/insta.png": "/NayanPort/static/media/insta.dd07911a33e815b94255.png",
+    "static/media/watch.png": "/NayanPort/static/media/watch.6001ec719343d0d74261.png",
+    "static/media/CentraNo2-Bold.ttf": "/NayanPort/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/NayanPort/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/NayanPort/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/qr.png": "/NayanPort/static/media/qr.230c7ae82f04057ed529.png",
+    "static/media/contact-img.svg": "/NayanPort/static/media/contact-img.62aa99e0f3b968b5d1ce9eb047f34fc7.svg",
+    "static/media/revicons.eot": "/NayanPort/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/NayanPort/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/NayanPort/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/nav-icon3.svg": "/NayanPort/static/media/nav-icon3.72cef43bc93b04f52e29f022ef720f8b.svg",
+    "index.html": "/NayanPort/index.html",
+    "static/media/nav-icon1.svg": "/NayanPort/static/media/nav-icon1.dff40ae802524d8fc0cbce3f312abe4f.svg",
+    "static/media/nav-icon2.svg": "/NayanPort/static/media/nav-icon2.a39f0e5e47e442dafcc5c9c320f19f6f.svg",
+    "main.a098e62c.css.map": "/NayanPort/static/css/main.a098e62c.css.map",
+    "main.2613b870.js.map": "/NayanPort/static/js/main.2613b870.js.map",
+    "787.b2e1b36e.chunk.js.map": "/NayanPort/static/js/787.b2e1b36e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a098e62c.css",
+    "static/js/main.2613b870.js"
+  ]
+}
